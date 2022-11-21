@@ -15,7 +15,7 @@ Noje js  <br>
 Node Red  <br>
 Arduino IDE  <br>
 
-<h2>Extensões Necessárias: <\h2>
+<h2> Extensões Necessárias: <\h2>
 Arduino IDE - Biblioteca Firmata <br>
 Node red - Para utilizar as portas de entradas e saída do arduino foi necessário instalar a extensão. <br>
  
