@@ -3,12 +3,12 @@
 Snack Time é um projeto que visa construir um alimentador automatico para pets. Além de liberar a ração ao clicar em um botão, também possibilita receber uma mensagem pelo whatsapp de quando o animal estiver comendo, por meio de um sensor de movimento.
 
 <h2> Os materiais utilizado para a criação do projeto foram  <h2>
-- Arduino UNO 
-- Sensor de movimento PIR -- Responsável por capturar o movimento do animal quando está se alimentando
-- Servo Motor MG 996R - Responsável por realizar o giro e permitir a saída do alimento
-- Botão
-- Led
-- 2 latas, sendo um com o diametro maior que a outra
+- Arduino UNO <br>
+- Sensor de movimento PIR -- Responsável por capturar o movimento do animal quando está se alimentando <br>
+- Servo Motor MG 996R - Responsável por realizar o giro e permitir a saída do alimento <br>
+- Botão <br>
+- Led <br>
+- 2 latas, sendo um com o diametro maior que a outra <br>
 
 #Instalações Necessárias:
 Noje js
