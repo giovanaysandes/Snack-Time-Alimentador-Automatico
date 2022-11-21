@@ -41,7 +41,7 @@ Neste repositório encontra-se :  <br>
  
 ![image](https://user-images.githubusercontent.com/80367383/202943959-8ff85dc4-b2f9-4245-83f3-5753bc72e07c.png) <br>
 
-A parte da helice do motor deve estar presa em uma das latas, enquanto o seu corpo em outra parte, permitindo assim a saída do alimento atravez do buraco. <br>
+A parte da helice do motor deve estar presa em uma das latas, enquanto o seu corpo em outra parte, permitindo assim a saída do alimento pela perfuração. <br>
 
 <h2> Modelo de Montagem </h2>
 ![image](https://user-images.githubusercontent.com/80367383/202945491-f581b12a-69d8-4a56-8f26-152ad8350642.png)<br>
