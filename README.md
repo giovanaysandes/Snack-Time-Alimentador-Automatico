@@ -51,5 +51,5 @@ Neste repositório encontra-se :  <br>
 2. A parte da helice do motor deve estar presa em uma das latas, enquanto o seu corpo em outra parte, permitindo assim o giro da lata como um todo, possibilitando  a saída do alimento pela perfuração. <br>
 
 <h2> Modelo de Montagem </h2>
-![image](https://user-images.githubusercontent.com/80367383/202945491-f581b12a-69d8-4a56-8f26-152ad8350642.png)<br>
+![image](https://user-images.githubusercontent.com/80367383/203992099-d76a8a63-2e58-4ea0-b672-1dc5853c10c0.png)  <br>
 Neste modelo de montagem temos o sensor de movimento PIR que será acionado quando animal estiver próximo de seu comedouro, ao ser ativado irá transmitir uma mensagem (“nome do animal está comendo”) para o aplicativo de texto whatsapp, por meio do protocolo MQTT e irá acender um led. Além disso, por meio do botão o MG996 servo motor será ativado e realizará um giro de acordo com o tempo de aperto no botão, ao realizar esse giro os dois buracos feitos nas latas irão se encontrar e o alimento irá ultrapassar entre eles para o comedouro do animal, dessa forma será liberado uma porção de ração.
